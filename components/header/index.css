@@ -1,0 +1,10 @@
+.headone-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.headone-img img{
+    border-bottom: 1px solid black;
+    
+}
