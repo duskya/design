@@ -1,0 +1,54 @@
+.headone-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.headone-img img{
+    border-bottom: 1px solid black;
+    
+}
+.all{
+    display: flex;
+    /* align-items: center;
+    justify-content: center; */
+    background: #fff;
+    /* color: black; */
+    /* height: 100%; */
+    margin: 10px 200px 10px 300px;
+    
+}
+.all :any-link{
+    color: black;
+    text-decoration: none;
+}
+
+.all  .search{
+    padding: 0 10px 0 0px;
+   position: relative;
+   background-color: white;
+}
+.all .search .input{
+    width: 500px;
+}
+.all .search .button{
+    background-color: white;
+}
+.all .myfeatures{
+    padding: 0 20px 0 20px;
+}
+.all .myfeatures .collection{
+    padding: 0 10px 0 10px;
+}
+.all .myfeatures .shoppingcart{
+    padding: 0 10px 0 10px;
+}
+.all .myfeatures .order{
+    padding: 0 10px 0 10px;
+}
+.all .myfeatures .message{
+    padding: 0 10px 0 10px;
+}
+.all .myfeatures .my{
+    padding: 0 10px 0 10px;
+}
